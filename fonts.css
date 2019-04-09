@@ -1,0 +1,173 @@
+@font-face {
+    font-family: "Farmhouse Dreams Script";
+    src: url(fonts/FarmhouseDreams-Script.ttf);
+}
+#styleOne {
+    font-family: "Farmhouse Dreams Script";
+    font-size: 100px;
+    height: auto;
+    /* padding-bottom: -30px;
+    padding-top: -30px; */
+}
+@font-face {
+    font-family: "Kite Script";
+    src: url(fonts/KiteScript.otf);
+}
+#styleTwo {
+    font-family: "Kite Script";
+    font-size: 80px;
+    height: auto;
+}
+@font-face {
+    font-family: "Flamingo";
+    src: url(fonts/FlamingoBold.ttf);
+}
+#styleThree {
+    font-family: "Flamingo";
+    font-size: 50px;
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+@font-face {
+    font-family: "Baking Lion";
+    src: url(fonts/BakingLion.otf);
+}
+#styleFour {
+    font-family: "Baking Lion";
+    font-size: 80px;
+    height: auto;
+}
+@font-face {
+    font-family: "Lovina October Five";
+    src: url(fonts/LovinaOctoberFive.otf);
+}
+#styleFive {
+    font-family: "Lovina October Five";
+    font-size: 60px;
+    height: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+@font-face {
+    font-family: "July Seventh";
+    src: url(fonts/JulySeventhRegular.otf);
+  }
+#styleSix {
+    font-family: "July Seventh";
+    font-size: 80px;
+    height: auto;
+}
+@font-face {
+    font-family: "Ashburton";
+    src: url(fonts/Ashburton.otf);
+}
+#styleSeven {
+    font-family: "Ashburton";
+    font-size: 80px;
+    height: auto;
+    padding-top: 20px;
+}
+@font-face {
+    font-family: "Reiny Selly";
+    src: url(fonts/RainySelly.otf);
+}
+#styleNine {
+    font-family: "Reiny Selly";
+    font-size: 80px;
+    height: auto; 
+    padding-top: 25px;
+}
+@font-face {
+    font-family: "Sweet Manika";
+    src: url(fonts/SweetManika.ttf);
+}
+#styleTen {
+    font-family: "Sweet Manika";
+    font-size: 80px;
+    height: auto; 
+}
+@font-face {
+    font-family: "Manda Script";
+    src: url(fonts/MandaScript.ttf);
+}
+#styleEleven {
+    font-family: "Manda Script";
+    font-size: 80px;
+    height: auto;
+
+}
+@font-face {
+    font-family: "Asking Mind";
+    src: url(fonts/AskingMind.otf);
+}
+#styleTwelve {
+    font-family: "Asking Mind";
+    font-size: 80px;
+    height: auto; 
+    padding-left: 25px;
+}
+@font-face {
+    font-family: "Outlander";
+    src: url(fonts/Outlander.otf);
+}
+#styleThirteen {
+    font-family: "Outlander";
+    font-size: 80px;
+    height: auto; 
+    padding-left: 15px;
+}
+@font-face {
+    font-family: "Paramount";
+    src: url(fonts/Paramount-Regular.otf);
+}
+#styleFourteen {
+    font-family: "Paramount";
+    font-size: 80px;
+    height: auto; 
+    padding-left: 15px;
+}
+@font-face {
+    font-family: "Raquella Bold";
+    src: url(fonts/RaquellaBold.ttf);
+}
+#styleSixteen {
+    font-family: "Raquella Bold";
+    font-size: 80px;
+    height: auto; 
+    padding-left: 15px;
+}
+@font-face {
+    font-family: Natron;
+    src: url(fonts/Natron.otf);
+}
+#styleEighteen {
+    font-family: Natron;
+    font-size: 80px;
+    height: auto; 
+    padding-left: 15px; 
+    padding-top: 20px;
+}
+@font-face {
+    font-family: Rwanda;
+    src: url(fonts/Rwanda.otf);
+}
+#styleNineteen {
+    font-family: Rwanda;
+    font-size: 80px;
+    height: auto; 
+    padding-left: 15px; 
+    padding-top: 10px;
+}
+@font-face {
+    font-family: Sallynda;
+    src: url(fonts/Sallynda.otf);
+}
+#styleTwenty {
+    font-family: Sallynda;
+    font-size: 80px;
+    height: auto; 
+    padding-left: 15px; 
+    padding-top: 10px;
+    padding-bottom: 35px;
+}

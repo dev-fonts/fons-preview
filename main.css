@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(247, 243, 243)
+}
+.container {
+    margin-top: 50px;
+}
+.btn {
+    background-color: orangered;
+}
+
+#btn:hover {
+    background-color: rgb(255, 123, 0);
+}
+
+.card {
+    margin-left: 10%;
+}
+.cont {
+    width: 80%;
+    margin-left: 15% !important;
+}
+.output {
+    background-color: white;
+    border: 1px solid rgb(184, 181, 181);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    color: white;
+}
+.input-group {
+    width: 80%;
+    margin-left: 10% !important;
+    margin-right: 10 !important;
+}
+.number {
+    margin-top: 35px;
+    margin-bottom: 10px !important;
+}
+#header {
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+}
