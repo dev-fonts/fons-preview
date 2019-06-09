@@ -173,7 +173,7 @@
 }
 @font-face {
     font-family: "Amastery Script";
-    src: url(fonts/AmasteryScript.otf);
+    src: url(fonts/AmasteryScript.ttf);
 }
 #styleTwentyOne {
     font-family: "Amastery Script";
@@ -181,5 +181,5 @@
     height: auto; 
     padding-left: 15px; 
     padding-top: 10px;
-    padding-bottom: 35px;
+    padding-bottom: 10px;
 }
