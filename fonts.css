@@ -171,3 +171,15 @@
     padding-top: 10px;
     padding-bottom: 35px;
 }
+@font-face {
+    font-family: Sallynda;
+    src: url(fonts/AmasteryScript.otf);
+}
+#styleTwentyOne {
+    font-family: "Amastery Script";
+    font-size: 80px;
+    height: auto; 
+    padding-left: 15px; 
+    padding-top: 10px;
+    padding-bottom: 35px;
+}
